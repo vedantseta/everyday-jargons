@@ -6,5 +6,7 @@ This contains simplified meaning of cool jargons I face
 
 #### Graphs
 
+* `Simple Graph` No Loops
 * `Planar Graph` Graph whose edges intersect only at their ends. 
+* `Complete Graph` Graph whose each pair of distinct vertices is joined by an edge
 
