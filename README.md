@@ -13,3 +13,4 @@ This contains simplified meaning of cool jargons I face
 #### Functional
 
 * `Currying` A function that will return new function until it receives all it's arguments
+* `Composition` In English, simply "Put Together", combine simple functions to build one function.
